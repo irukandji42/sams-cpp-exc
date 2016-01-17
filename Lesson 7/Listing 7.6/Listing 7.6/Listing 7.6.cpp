@@ -5,7 +5,7 @@ const double Pi = 3.14159;
 
 void QueryAndCalculate()
 {
-	cout << "Enter radius: ";
+	cout << "Enter radius por favor: ";
 	double Radius = 0;
 	cin >> Radius;
 
